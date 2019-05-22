@@ -2,7 +2,7 @@
 增删改练习
 """
 import pymysql
-
+ad =12
 #创建链接
 db = pymysql.connect(host='localhost',
                      user='root',
